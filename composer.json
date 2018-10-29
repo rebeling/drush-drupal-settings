@@ -5,6 +5,9 @@
     "require": {
         "drush/drush": "^9.3"
     },
+    "replace": {
+      "zaporylie/drupal_settings": "*"
+    },
     "license": "GPL-2.0+",
     "authors": []
 }
