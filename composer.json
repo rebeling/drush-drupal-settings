@@ -3,7 +3,7 @@
     "description": "Allows you to get values for read only settings that are stored in settings.php, for drush > 9.3",
     "type": "drupal-drush",
     "require": {
-        "drush/drush": "^9.3"
+        "drush/drush": "~9||~10"
     },
     "replace": {
       "zaporylie/drupal_settings": "*"
